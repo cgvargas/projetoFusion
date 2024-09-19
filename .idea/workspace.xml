@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60c8a62a-2844-4a65-829d-2744c95cac4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fusion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/features.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/pricing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/team.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/templates/testimonial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="60c8a62a-2844-4a65-829d-2744c95cac4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
